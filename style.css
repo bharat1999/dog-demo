@@ -1,0 +1,22 @@
+body
+{
+    background-color: #f6f5f5;
+}
+img
+{
+    width: 80%;
+}
+div
+{
+    background-color: #d3e0ea;
+    margin: 2% auto;
+    padding: 1rem 1rem;
+}
+a
+{
+    color: black;
+}
+.button-link
+{
+    text-align: center;
+}
